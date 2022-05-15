@@ -11,7 +11,7 @@
 
 ## Activities
 - Advance to **2018 ACM-ICPC Seoul Regional Onsite Contest**
-- Grand Prize at **2019 D2 CAMPUS FEST mini**
+- Grand Prize at **2019 NAVER D2 CAMPUS FEST mini**
 - 1st Prize at **2019 Chung-Ang University SW TECH FAIR (Coding Competition)**
 - 2nd Prize at **2019 ICT Award Korea (Algorithm Competition)**
 - 5th Prize, Ground X Special Prize at **2019 Openhack**
