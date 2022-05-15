@@ -10,7 +10,7 @@
   - Skilled Industrial Personnel (Alternative Military Service) : 2020.09 ~ 2022.08
 
 ## Activities
-- Advance to **2018 ACM-ICPC Seoul Regional**
+- Advance to **2018 ACM-ICPC Seoul Regional Onsite Contest**
 - Grand Prize at **2019 D2 CAMPUS FEST mini**
 - 1st Prize at **2019 Chung-Ang University SW TECH FAIR (Coding Competition)**
 - 2nd Prize at **2019 ICT Award Korea (Algorithm Competition)**
