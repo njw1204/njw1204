@@ -1,5 +1,5 @@
 # Na Jongwoo — @njw1204
-[![Tech Blog Badge](http://img.shields.io/badge/-Blog-black?style=flat-square&logo=github&link=https://velog.io/@njw1204)](https://velog.io/@njw1204) [![Email](https://img.shields.io/badge/-Email-d14836?style=flat&logo=Gmail&logoColor=white&link=mailto:njw1204@naver.com)](mailto:njw1204@naver.com) [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fnjw1204%2Fnjw1204&count_bg=%23AAAAAA&title_bg=%23555555&icon=github.svg&icon_color=%23FFFFFF&title=Hits)](https://github.com/njw1204/njw1204)
+[![Tech Blog Badge](http://img.shields.io/badge/-Blog-20C997?style=flat&logo=velog&link=https://velog.io/@njw1204&logoColor=white)](https://velog.io/@njw1204) [![Email](https://img.shields.io/badge/-Email-d14836?style=flat&logo=Gmail&logoColor=white&link=mailto:njw1204@naver.com)](mailto:njw1204@naver.com) [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fnjw1204%2Fnjw1204&count_bg=%23AAAAAA&title_bg=%23555555&icon=github.svg&icon_color=%23FFFFFF&title=Hits)](https://github.com/njw1204/njw1204)
 
 [![CodeForces Profile](https://cf.leed.at?id=njw1204)](https://codeforces.com/profile/njw1204)
 
