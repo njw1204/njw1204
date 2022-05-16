@@ -1,9 +1,20 @@
 # Na Jongwoo — @njw1204
-[![Email](https://img.shields.io/badge/-njw1204@naver.com-d14836?style=flat&logo=Gmail&logoColor=white&link=mailto:njw1204@naver.com)](mailto:njw1204@naver.com) [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fnjw1204%2Fnjw1204&count_bg=%23AAAAAA&title_bg=%23555555&icon=github.svg&icon_color=%23FFFFFF&title=Hits)](https://github.com/njw1204/njw1204) [![Stars](https://img.shields.io/github/stars/njw1204?color=yellow&label=Stars&logo=github)](https://github.com/njw1204/njw1204)
+[![Tech Blog Badge](http://img.shields.io/badge/-Blog-black?style=flat-square&logo=github&link=https://velog.io/@njw1204)](https://velog.io/@njw1204) [![Email](https://img.shields.io/badge/-Email-d14836?style=flat&logo=Gmail&logoColor=white&link=mailto:njw1204@naver.com)](mailto:njw1204@naver.com) [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fnjw1204%2Fnjw1204&count_bg=%23AAAAAA&title_bg=%23555555&icon=github.svg&icon_color=%23FFFFFF&title=Hits)](https://github.com/njw1204/njw1204)
 
 [![CodeForces Profile](https://cf.leed.at?id=njw1204)](https://codeforces.com/profile/njw1204)
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=njw1204&)](https://solved.ac/njw1204/)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=njw1204)](https://solved.ac/njw1204)
+
+## Skills
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?&style=for-the-badge&logo=JavaScript&logoColor=white)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?&style=for-the-badge&logo=MySQL&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
 ## Work Experience
 - [**TeamO2**](http://teamo2.kr/) — Web Developer : 2019.12 ~ Current
