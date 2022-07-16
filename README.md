@@ -17,7 +17,7 @@
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
 ## Work Experience
-- [**TeamO2**](http://teamo2.kr/) — Web Developer : 2019.12 ~ Current
+- [**TeamO2**](http://teamo2.kr/) — Web Developer : 2019.12 ~ 2022.08
   - Skilled Industrial Personnel (Alternative Military Service) : 2020.09 ~ 2022.08
 
 ## Activities
@@ -27,3 +27,4 @@
 - 2nd Prize at **2019 ICT Award Korea (Algorithm Competition)**
 - 5th Prize, Ground X Special Prize at **2019 Openhack**
 - Advance to **2022 Google Code Jam Round 3**
+- Excellence Prize at **2022 HYUNDAI MOBIS Algorithm Competition**
