@@ -15,9 +15,13 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
-## Activities
-- Advance to **2018 ACM-ICPC Seoul Regional Onsite Contest**
-- Grand Prize at **2019 NAVER D2 CAMPUS FEST mini**
-- 5th Prize at **2019 Openhack**
-- Advance to **2022 Google Code Jam Round 3**
+## Work Experience
+- [**TeamO2**](http://teamo2.kr/) — Skilled Industrial Personnel Web Developer : 2020.09 ~ 2022.08
+- [**TeamO2**](http://teamo2.kr/) — Web Developer Internship : 2019.12 ~ 2020.06
+
+## Other Experience
 - Excellence Prize at **2022 HYUNDAI MOBIS Algorithm Competition**
+- Advance to **2022 Google Code Jam Round 3**
+- 5th Prize at **2019 Openhack**
+- Grand Prize at **2019 NAVER D2 CAMPUS FEST mini**
+- Advance to **2018 ACM-ICPC Seoul Regional Onsite Contest**
