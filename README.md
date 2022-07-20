@@ -22,6 +22,6 @@
 ## Other Experience
 - Excellence Prize at **2022 HYUNDAI MOBIS Algorithm Competition**
 - Advance to **2022 Google Code Jam Round 3**
-- 5th Prize at **2019 Openhack**
 - Grand Prize at **2019 NAVER D2 CAMPUS FEST mini**
+- 5th Prize at **2019 Openhack**
 - Advance to **2018 ACM-ICPC Seoul Regional Onsite Contest**
