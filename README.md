@@ -22,6 +22,8 @@
 ## Other Experience
 - Excellence Prize at **2022 HYUNDAI MOBIS Algorithm Competition**
 - Advance to **2022 Google Code Jam Round 3**
+- 1st Prize at **2019 Chung-Ang University SW TECH FAIR (Coding Competition)**
 - Grand Prize at **2019 NAVER D2 CAMPUS FEST mini**
 - 5th Prize at **2019 Openhack**
+- 2nd Prize at **2019 ICT Award Korea (Algorithm Competition)**
 - Advance to **2018 ACM-ICPC Seoul Regional Onsite Contest**
