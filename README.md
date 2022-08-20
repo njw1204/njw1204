@@ -22,4 +22,4 @@
   - *Winter Semester Web Developer Internship* (2019.12 ~ 2020.02)
 
 ## Other Experience
-Please visit [**njw.kr**](https://njw.kr/)
+- Please visit [**njw.kr**](https://njw.kr/)
