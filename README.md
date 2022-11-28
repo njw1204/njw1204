@@ -16,11 +16,5 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
-## Work Experience
-- [**TeamO2**](http://teamo2.kr/)
-  - *Skilled Industrial Personnel Web Developer* (2020.09 ~ 2022.08)
-  - *Spring Semester Web Developer Internship* (2020.03 ~ 2020.06)
-  - *Winter Semester Web Developer Internship* (2019.12 ~ 2020.02)
-
 ## Other Experience
 - Please check [**njw.kr**](https://njw.kr/)
