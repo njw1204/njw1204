@@ -3,12 +3,19 @@
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=njw1204)](https://git.io/streak-stats)
 
+## Organizations
+- [University MakeUs Challenge](https://www.makeus.in/umc) 3rd
+  - Spring Boot Team Member (2022.09 ~ 2023.02)
+- [TeamO2](https://teamo2.kr/)
+  - Skilled Industrial Personnel Web Developer (2020.09 ~ 2022.08)
+  - Web Developer Internship (2019.12 ~ 2020.06)
+
 ## Skills
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?&style=for-the-badge&logo=MySQL&logoColor=white)
