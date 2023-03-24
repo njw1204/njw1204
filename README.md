@@ -4,11 +4,14 @@
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=njw1204)](https://git.io/streak-stats)
 
 ## Organizations
-- [University MakeUs Challenge](https://www.makeus.in/umc) 3rd
-  - Spring Boot Team Member (2022.09 ~ 2023.02)
+- [SW Maestro](https://swmaestro.org/)
+  - 14th Trainee (2023.04 ~)
+- [University MakeUs Challenge](https://www.makeus.in/umc)
+  - 3rd Spring Boot Team Member (2022.09 ~ 2023.02)
 - [TeamO2](https://teamo2.kr/)
-  - Skilled Industrial Personnel Web Developer (2020.09 ~ 2022.08)
-  - Web Developer Internship (2019.12 ~ 2020.06)
+  - Web Developer (2019.12 ~ 2022.08)
+- [Chung-Ang University](https://www.cau.ac.kr/)
+  - B.S. in Computer Science and Engineering (2018.03 ~) 
 
 ## Skills
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
