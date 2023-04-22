@@ -4,8 +4,6 @@
 
 ## Organizations
 
-- **[SW Maestro](https://swmaestro.org/)**
-  - 14th Trainee (2023.04 ~)
 - **[University MakeUs Challenge](https://www.makeus.in/umc)**
   - 3rd Spring Boot Team Member (2022.09 ~ 2023.02)
 - **[TeamO2](https://teamo2.kr/)**
