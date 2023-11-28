@@ -6,8 +6,6 @@
 
 - **[University MakeUs Challenge](https://www.makeus.in/umc)**
   - 3rd Spring Boot Team Member (2022.09 ~ 2023.02)
-- **[TeamO2](https://teamo2.kr/)**
-  - Web Developer (2019.12 ~ 2022.08)
 - **[Chung-Ang University](https://www.cau.ac.kr/)**
   - B.S. in Computer Science and Engineering (2018.03 ~)
 
